@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b84426e4b6f943bf2d5bab18",
+  "owner": "qvrvvhyp",
+  "repo": "page-4c294b6f7a6b5bdd6b199424",
+  "title": "惊叹号",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4c294b6f7a6b5bdd6b199424",
+      "a": "惊叹号",
+      "b": "2027最新官网",
+      "entity": "惊叹号",
+      "brand": "惊叹号",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a172cb262d0ee956a338b49989024b3362e704a08560554f9213dcfbbc888d0d",
+      "content": {
+        "primary_entity": "惊叹号",
+        "keyword1": "惊叹号",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端：Windows 与 macOS 桌面端、iOS 与 Android 移动端，以及路由器等场景，可分别参考对应订阅配置方式。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "从套餐对比开始，按设备数量与流量需求选择版本，再依客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，连上更快",
+          "AI_DESCRIPTION": "，惊叹号面向海外加速场景，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，适合多终端协同。年付更省，按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。选择服务后可依客户端文档配置订阅。",
+          "AI_FEATURES_INTRO": "围绕流量、设备数量与订阅周期，帮助快速定位适合自己的版本。",
+          "AI_FEATURES_TITLE": "套餐选择与设备适配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "三档均支持按年付：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁；团队版含 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "按年付更省",
+          "AI_FEATURE_TITLE_3": "高阶权益差异",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅配置的流程：先确定设备数量与流量需求，再核对适配要求，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步配置指南",
+          "AI_HERO_INTRO": "惊叹号提供海外加速订阅服务，按设备数量与月流量划分基础版、旗舰版和团队版，支持桌面端与移动端客户端配置，年付方案更节省。",
+          "AI_HERO_SUBTITLE": "海外加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付 ¥15 起，年付低至 ¥150",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏加速优化",
+          "AI_PLANS_INTRO": "基础版每月 ¥15 适合 3 台设备轻度使用；旗舰版每月 ¥35 提供 300GB 与 5 台设备，含 IPLC 专线；团队版每月 ¥85 提供 1000GB 与 20 台设备。年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量与每月流量用量，在基础版、旗舰版和团队版之间选择合适版本。",
+          "AI_STEP_TEXT_2": "核对设备系统与客户端适配要求，确认所选套餐的设备数量上限满足使用场景。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅信息，完成配置后即可在设备上使用加速服务。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "惊叹号海外加速",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。",
+          "AI_FAQ_ANSWER_2": "可以。基础版解锁基础流媒体，旗舰版提供全节点原生流媒体解锁，团队版则配备 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_3": "旗舰版与团队版均可按年付，旗舰版年付 ¥350，团队版年付 ¥850，比月付更划算。",
+          "AI_FAQ_ANSWER_4": "选择设备对应的客户端，下载后导入订阅链接，即可开始使用。具体配置步骤请参考客户端文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单支持，团队版额外配备专属客户经理服务，响应更及时。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "流媒体解锁在各套餐中有何差异？",
+          "AI_FAQ_QUESTION_3": "是否支持按年付费？",
+          "AI_FAQ_QUESTION_4": "如何在设备上配置订阅？",
+          "AI_FAQ_QUESTION_5": "遇到问题如何获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sne6fb.cn",
+    "host": "sne6fb.cn"
+  },
+  "file_hashes": {
+    "index.html": "ae5fbdf6191922b8f70b22195b842aebd5dea8f343da4129a37b090fb56c74e6",
+    "sitemap.xml": "3b8a93f8e3bf1dbfeabba18bcb6237334f85670c622d67f542dc1fc3d01a7e8c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4cb24272c75b255708217616f0df07c1fcc8a3e8d93c4006b3903f8667712e24",
+    "robots.txt": "e0af271eb2f91f1fa2be949dccc06e095210de72bccd61bbd99a6a675321a697",
+    "6878f1db1bbe8f6dd8be43c01b785943.txt": "d3a4ab546a44abd43d6cb0f54255d3e94612bbd5aac55f653938d197478fe910"
+  },
+  "revision": "6b4a9688d7f709e9434b022246cbb140c65acc25d44cf844e98c9626eadbd1d9"
+}
